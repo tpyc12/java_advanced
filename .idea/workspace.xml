@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d24cdc5-f182-4baa-b7b0-f840d3537588" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/hw1/HomeWork1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw1/HomeWork1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gKSO7d7bNEph6kavEt32tWELYU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HomeWork1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw1.HomeWork1" />
+      <module name="java_advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HomeWork1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d24cdc5-f182-4baa-b7b0-f840d3537588" name="Default Changelist" comment="" />
+      <created>1597861769323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597861769323</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="95" key="#com.intellij.ide.util.MemberChooser" timestamp="1597919838180">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="445" y="95" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1597919838180" />
+    <state x="389" y="71" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597919215767">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="389" y="71" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.760@0.0.1280.760" timestamp="1597919215767" />
+    <state x="370" y="126" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597919630706">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="370" y="126" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.760@0.0.1280.760" timestamp="1597919630706" />
+    <state x="507" y="276" key="Github.ShareDialog" timestamp="1597861973316">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="507" y="276" key="Github.ShareDialog/0.0.1280.760@0.0.1280.760" timestamp="1597861973316" />
+    <state x="416" y="84" key="Github.UntrackedFilesDialog" timestamp="1597861991717">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="416" y="84" key="Github.UntrackedFilesDialog/0.0.1280.760@0.0.1280.760" timestamp="1597861991717" />
+    <state width="1236" height="185" key="GridCell.Tab.0.bottom" timestamp="1597920272543">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1236" height="185" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1597920272543" />
+    <state width="1236" height="185" key="GridCell.Tab.0.center" timestamp="1597920272543">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1236" height="185" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1597920272543" />
+    <state width="1236" height="185" key="GridCell.Tab.0.left" timestamp="1597920272543">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1236" height="185" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1597920272543" />
+    <state width="1236" height="185" key="GridCell.Tab.0.right" timestamp="1597920272543">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1236" height="185" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1597920272543" />
+  </component>
+</project>
