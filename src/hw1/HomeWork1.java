@@ -15,8 +15,7 @@ public class HomeWork1 {
 
         for (int i = 0; i < participants.length; i++) {
             for (int j = 0; j < lets.length; j++) {
-                lets[j].pleaseJump(participants[i]);
-                lets[j].pleaseRun(participants[i]);
+                lets[j].pleaseStart(participants[i]);
             }
         }
     }

@@ -19,8 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d24cdc5-f182-4baa-b7b0-f840d3537588" name="Default Changelist" comment="">
+    <list default="true" id="2d24cdc5-f182-4baa-b7b0-f840d3537588" name="Default Changelist" comment="Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_advanced/hw1/HomeWork1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_advanced/hw1/HomeWork1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_advanced/hw1/Let.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_advanced/hw1/Let.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_advanced/hw1/Treadmill.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_advanced/hw1/Treadmill.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_advanced/hw1/Wall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_advanced/hw1/Wall.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hw1/HomeWork1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw1/HomeWork1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/Let.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw1/Let.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/Treadmill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw1/Treadmill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw1/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw1/Wall.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +92,14 @@
       <option name="presentableId" value="Default" />
       <updated>1597861769323</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <created>1597920634485</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597920634485</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +112,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="445" y="95" key="#com.intellij.ide.util.MemberChooser" timestamp="1597919838180">
@@ -117,21 +139,29 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="416" y="84" key="Github.UntrackedFilesDialog/0.0.1280.760@0.0.1280.760" timestamp="1597861991717" />
-    <state width="1236" height="185" key="GridCell.Tab.0.bottom" timestamp="1597920272543">
+    <state width="1236" height="185" key="GridCell.Tab.0.bottom" timestamp="1597921675944">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1236" height="185" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1597920272543" />
-    <state width="1236" height="185" key="GridCell.Tab.0.center" timestamp="1597920272543">
+    <state width="1236" height="185" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1597921675944" />
+    <state width="1236" height="185" key="GridCell.Tab.0.center" timestamp="1597921675943">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1236" height="185" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1597920272543" />
-    <state width="1236" height="185" key="GridCell.Tab.0.left" timestamp="1597920272543">
+    <state width="1236" height="185" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1597921675943" />
+    <state width="1236" height="185" key="GridCell.Tab.0.left" timestamp="1597921675943">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1236" height="185" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1597920272543" />
-    <state width="1236" height="185" key="GridCell.Tab.0.right" timestamp="1597920272543">
+    <state width="1236" height="185" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1597921675943" />
+    <state width="1236" height="185" key="GridCell.Tab.0.right" timestamp="1597921675943">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1236" height="185" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1597920272543" />
+    <state width="1236" height="185" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1597921675943" />
+    <state x="526" y="293" key="VCS.EditChangelistDialog" timestamp="1597920999904">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="526" y="293" key="VCS.EditChangelistDialog/0.0.1280.760@0.0.1280.760" timestamp="1597920999904" />
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1597920672478">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1597920672478" />
   </component>
 </project>
