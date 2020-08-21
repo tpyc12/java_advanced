@@ -21,15 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2d24cdc5-f182-4baa-b7b0-f840d3537588" name="Default Changelist" comment="Commit">
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advanced/hw1/HomeWork1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_advanced/hw1/HomeWork1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advanced/hw1/Let.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_advanced/hw1/Let.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advanced/hw1/Treadmill.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_advanced/hw1/Treadmill.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advanced/hw1/Wall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_advanced/hw1/Wall.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw1/HomeWork1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw1/HomeWork1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw1/Let.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw1/Let.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw1/Treadmill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw1/Treadmill.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw1/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw1/Wall.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
