@@ -15,9 +15,11 @@ public class HomeWork2 {
 
 
     public static void myArray(String[][] arr) throws MyArraySizeException, MyArrayDataException {
-        for (int i = 0; i < 4; i++) {
-            if (arr.length == 4 && arr[i].length == 4) {
-            } else {
+        if (arr.length != 4) {
+            throw new MyArraySizeException("Хочу, чтобы Вы указали массив 4х4");
+        }
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i].length != 4) {
                 throw new MyArraySizeException("Хочу, чтобы Вы указали массив 4х4");
             }
         }
