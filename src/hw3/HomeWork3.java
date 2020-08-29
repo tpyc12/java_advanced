@@ -42,8 +42,14 @@ public class HomeWork3 {
         for (Map.Entry<String, Integer> counts : entrees.entrySet())
             System.out.println("Слово: " + counts.getKey() + ". Встречается в массиве " + counts.getValue() + " раз.");
 
+        PhoneBook phoneBook = new PhoneBook();
+        phoneBook.add("Paul", 89008001020L);
+        phoneBook.add("Lidia", 89008001021L);
+        phoneBook.add("Mal", 89008001022L);
+        phoneBook.add("Tim", 89008001023L);
+        phoneBook.add("Paul", 89008001024L);
 
-
+        System.out.println(phoneBook.get("Paul"));
     }
 }
 
