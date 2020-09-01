@@ -21,7 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="2d24cdc5-f182-4baa-b7b0-f840d3537588" name="Default Changelist" comment="Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_advanced/hw3/HomeWork3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_advanced/hw3/HomeWork3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_advanced/hw5/Example_SB_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_advanced/hw5/Example_SB_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_advanced/hw5/HomeWork5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_advanced/hw5/HomeWork5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw5/Example_SB_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw5/Example_SB_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hw5/HomeWork5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw5/HomeWork5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -203,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598950296650</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Commit">
+      <created>1598952334909</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1598952334909</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -243,30 +252,30 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="416" y="84" key="Github.UntrackedFilesDialog/0.0.1280.760@0.0.1280.760" timestamp="1597861991717" />
-    <state width="1236" height="184" key="GridCell.Tab.0.bottom" timestamp="1598949953523">
+    <state width="1236" height="184" key="GridCell.Tab.0.bottom" timestamp="1598968269541">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1236" height="184" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1598949953523" />
-    <state width="1236" height="184" key="GridCell.Tab.0.center" timestamp="1598949953523">
+    <state width="1236" height="184" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1598968269541" />
+    <state width="1236" height="184" key="GridCell.Tab.0.center" timestamp="1598968269541">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1236" height="184" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1598949953523" />
-    <state width="1236" height="184" key="GridCell.Tab.0.left" timestamp="1598949953523">
+    <state width="1236" height="184" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1598968269541" />
+    <state width="1236" height="184" key="GridCell.Tab.0.left" timestamp="1598968269541">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1236" height="184" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1598949953523" />
-    <state width="1236" height="184" key="GridCell.Tab.0.right" timestamp="1598949953523">
+    <state width="1236" height="184" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1598968269541" />
+    <state width="1236" height="184" key="GridCell.Tab.0.right" timestamp="1598968269541">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1236" height="184" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1598949953523" />
+    <state width="1236" height="184" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1598968269541" />
     <state x="526" y="293" key="VCS.EditChangelistDialog" timestamp="1597920999904">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="526" y="293" key="VCS.EditChangelistDialog/0.0.1280.760@0.0.1280.760" timestamp="1597920999904" />
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1598950304952">
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1598952341157">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1598950304952" />
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1598952341157" />
     <state x="457" y="293" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598023402140">
       <screen x="0" y="0" width="1280" height="760" />
     </state>

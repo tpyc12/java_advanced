@@ -51,6 +51,14 @@ public class Example_SB_4 {
                 }
             }
         });
+        score1.start();
+        score2.start();
+        try {
+            score1.join();
+            score2.join();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         System.arraycopy(arr1, 0, arr, 0, HALF - 1);
         System.arraycopy(arr2, 0, arr, HALF, HALF);
         System.currentTimeMillis();
