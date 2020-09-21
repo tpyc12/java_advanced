@@ -5,6 +5,5 @@ public class HomeWork5 {
         Example_SB_4 example_sb_4 = new Example_SB_4();
         example_sb_4.method1();
         example_sb_4.method2();
-
     }
 }

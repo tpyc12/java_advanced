@@ -1,5 +1,7 @@
 package hw5;
 
+import java.util.Arrays;
+
 public class Example_SB_4 {
 
     public static void method1() {
@@ -33,7 +35,7 @@ public class Example_SB_4 {
         }
         long a = System.currentTimeMillis();
         System.arraycopy(arr, 0, arr1, 0, HALF);
-        System.arraycopy(arr, HALF + 1, arr2, 0, HALF - 1);
+        System.arraycopy(arr, HALF, arr2, 0, HALF);
 
         Thread score1 = new Thread(new Runnable() {
             @Override
@@ -51,18 +53,22 @@ public class Example_SB_4 {
                 }
             }
         });
+
         score1.start();
         score2.start();
+
         try {
             score1.join();
             score2.join();
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        System.arraycopy(arr1, 0, arr, 0, HALF - 1);
+
+        System.arraycopy(arr1, 0, arr, 0, HALF);
         System.arraycopy(arr2, 0, arr, HALF, HALF);
         System.currentTimeMillis();
         System.out.println("Метод 2 делает операцию за : " + (System.currentTimeMillis() - a) + " мс.");
+        System.out.println(Arrays.equals(arr, arr));
     }
 }
 
