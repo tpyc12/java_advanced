@@ -21,6 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="2d24cdc5-f182-4baa-b7b0-f840d3537588" name="Default Changelist" comment="Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_advanced/hw5/Example_SB_4$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_advanced/hw5/Example_SB_4$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_advanced/hw5/Example_SB_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_advanced/hw5/Example_SB_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_advanced/hw5/HomeWork5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_advanced/hw5/HomeWork5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw5/Example_SB_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw5/Example_SB_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw5/HomeWork5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw5/HomeWork5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +64,7 @@
       <recent name="hw2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HomeWork2">
+  <component name="RunManager" selected="Application.HomeWork5">
     <configuration name="HomeWork1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hw1.HomeWork1" />
       <module name="java_advanced" />
@@ -86,11 +91,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HomeWork3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw3.HomeWork3" />
+      <module name="java_advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw5.HomeWork5" />
+      <module name="java_advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeWork5" />
+        <item itemvalue="Application.HomeWork3" />
         <item itemvalue="Application.HomeWork2" />
-        <item itemvalue="Application.HomeWork1" />
-        <item itemvalue="Application.HomeWork1" />
         <item itemvalue="Application.HomeWork1" />
         <item itemvalue="Application.HomeWork1" />
       </list>
@@ -133,7 +164,63 @@
       <option name="project" value="LOCAL" />
       <updated>1598088817586</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit">
+      <created>1598164674672</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598164674672</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Commit">
+      <created>1598164974773</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598164974773</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Commit">
+      <created>1598526369752</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1598526369752</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Commit">
+      <created>1598693843355</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1598693843355</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Commit">
+      <created>1598884321797</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1598884321797</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Commit">
+      <created>1598950296649</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1598950296650</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Commit">
+      <created>1598952334909</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1598952334909</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Commit">
+      <created>1598969142676</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1598969142676</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,10 +240,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="445" y="95" key="#com.intellij.ide.util.MemberChooser" timestamp="1597919838180">
+    <state x="445" y="95" key="#com.intellij.ide.util.MemberChooser" timestamp="1598184408118">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="445" y="95" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1597919838180" />
+    <state x="445" y="95" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1598184408118" />
+    <state x="320" y="115" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600674034981">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="320" y="115" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.760@0.0.1280.760" timestamp="1600674034981" />
     <state x="389" y="71" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597919215767">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -173,30 +264,30 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="416" y="84" key="Github.UntrackedFilesDialog/0.0.1280.760@0.0.1280.760" timestamp="1597861991717" />
-    <state width="1236" height="185" key="GridCell.Tab.0.bottom" timestamp="1598089123864">
+    <state width="1236" height="184" key="GridCell.Tab.0.bottom" timestamp="1599898965633">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1236" height="185" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1598089123864" />
-    <state width="1236" height="185" key="GridCell.Tab.0.center" timestamp="1598089123863">
+    <state width="1236" height="184" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1599898965633" />
+    <state width="1236" height="184" key="GridCell.Tab.0.center" timestamp="1599898965633">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1236" height="185" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1598089123863" />
-    <state width="1236" height="185" key="GridCell.Tab.0.left" timestamp="1598089123863">
+    <state width="1236" height="184" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1599898965633" />
+    <state width="1236" height="184" key="GridCell.Tab.0.left" timestamp="1599898965633">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1236" height="185" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1598089123863" />
-    <state width="1236" height="185" key="GridCell.Tab.0.right" timestamp="1598089123863">
+    <state width="1236" height="184" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1599898965633" />
+    <state width="1236" height="184" key="GridCell.Tab.0.right" timestamp="1599898965633">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1236" height="185" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1598089123863" />
+    <state width="1236" height="184" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1599898965633" />
     <state x="526" y="293" key="VCS.EditChangelistDialog" timestamp="1597920999904">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="526" y="293" key="VCS.EditChangelistDialog/0.0.1280.760@0.0.1280.760" timestamp="1597920999904" />
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1598088827285">
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1598969168018">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1598088827285" />
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1598969168018" />
     <state x="457" y="293" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598023402140">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -205,9 +296,13 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="419" y="92" key="git4idea.branch.GitSmartOperationDialog/0.0.1280.760@0.0.1280.760" timestamp="1598023499930" />
-    <state x="296" y="165" key="run.anything.popup" timestamp="1598084486256">
+    <state x="231" y="0" key="new project wizard" timestamp="1598694003793">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="296" y="165" key="run.anything.popup/0.0.1280.760@0.0.1280.760" timestamp="1598084486256" />
+    <state x="231" y="0" key="new project wizard/0.0.1280.760@0.0.1280.760" timestamp="1598694003793" />
+    <state x="296" y="165" key="run.anything.popup" timestamp="1598947033917">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="296" y="165" key="run.anything.popup/0.0.1280.760@0.0.1280.760" timestamp="1598947033917" />
   </component>
 </project>
